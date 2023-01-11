@@ -5,7 +5,7 @@ Arthemax is a Decentralized Autonomous Organization that is supported by a varie
 
 Arthemax was founded by KOSASIH on January 11 2022 with its main mission, which is to help create a better life for the world's people, today, tomorrow and in the future.
 
-Artemax was founded on the basis of concern for the conditions of the development of life in a global society which faces various problems in various sectors of life, including: 
+Arthemax was founded on the basis of concern for the conditions of the development of life in a global society which faces various problems in various sectors of life, including: 
 
 1. Damage to the environment including animal and plant habitats. 
 2. Global warming. 
