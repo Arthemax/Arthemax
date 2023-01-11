@@ -1,5 +1,7 @@
 # Arthemax
 Intelligent futuristic Decentralized Autonomous Organization powered by unstoppable new technological innovations,
+# Motto
+Best, Smart, Futuristic
 # Mission
 Helping to create a better world community life, today, tomorrow, and in the future.
 # Description
