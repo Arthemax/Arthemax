@@ -17,3 +17,5 @@ Arthemax was founded on the basis of concern for the conditions of the developme
 4. Economic inflation. 
 5. Food crisis, and various other problems.
 
+# Value Proposition
+Arthemax provides the most advanced features that will help make it easier for developers to develop projects and applications, so that Arthemax can create a developer environment that is far more creative, productive and innovative in creating their work. Apart from the above, Artemax also helps artists, artists, coin makers, traders, research experts, researchers, government, teachers, and various other sectors to be able to further develop their business, work, and others through the development of digital technology.
