@@ -16,7 +16,7 @@ Nexus 1.1 is a cutting-edge autonomous AI system designed to push the boundaries
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nexus-1-1.git
+git clone https://github.com/Arthemax/nexus-1-1.git
 cd nexus-1-1
 
 # Install dependencies
